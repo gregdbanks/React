@@ -1,2 +1,2 @@
 # React
-Some React Apps I built
+Here are some React Apps I built. Check em out
