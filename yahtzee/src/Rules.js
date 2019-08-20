@@ -78,7 +78,9 @@ class SmallStraight extends Rule {
      return this.score
    }
    if (d.has(3) && d.has(4) && d.has(5) && (d.has(2) || d.has(6))) {
-     return this.score
+     return this.score;
+
+    return 0;
    }
  }; // TODO
 }
